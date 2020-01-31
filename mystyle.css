@@ -1,0 +1,27 @@
+
+body {   
+    background-color: rgba(34, 61, 11, 0.671);
+    background:url("images/road.jpg");
+}
+
+a{
+    color: cornsilk;
+} 
+  
+img{
+
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mne{
+    text-align: center;
+} 
+
+.title{
+    font-size: 30px;
+    font-weight: bolder;
+
+}
